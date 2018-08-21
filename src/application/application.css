@@ -1,0 +1,36 @@
+#fast{
+	-fx-background-color: white ;
+	-fx-text-fill: black ;
+}
+#slow{
+	-fx-background-color: white ;
+	-fx-text-fill: black ;
+}
+#open{
+   -fx-background-image: url("../media/icon/open.png") ;
+   -fx-background-size: 55 32;
+   -fx-background-repeat: no-repeat ;
+   -fx-background-position: center ;	
+   -fx-background-color: transparent ;
+}
+#play{
+   -fx-background-image: url("../media/icon/play.png") ;
+   -fx-background-size: 55 32;
+   -fx-background-repeat: no-repeat ;
+   -fx-background-position: center ;
+   -fx-background-color: transparent ;	
+}
+#pause{
+   -fx-background-image: url("../media/icon/pause.png") ;
+   -fx-background-size: 55 32;
+   -fx-background-repeat: no-repeat ;
+   -fx-background-position: center ;
+   -fx-background-color: transparent ;	
+}
+#reload{
+   -fx-background-image: url("../media/icon/reload.png") ;
+   -fx-background-size: 55 32;
+   -fx-background-repeat: no-repeat ;
+   -fx-background-position: center ;
+   -fx-background-color: transparent ;	
+}
